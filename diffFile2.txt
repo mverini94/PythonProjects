@@ -1,0 +1,3 @@
+
+info in this file is going to 
+be slightly different from diffFile1

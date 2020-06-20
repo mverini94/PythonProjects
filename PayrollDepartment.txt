@@ -1,0 +1,10 @@
+Williams,13.58,40.00
+Johnson, 17.23,40.00
+Litchman, 15.56,37.75
+Gill,15.25,47.5
+Padilla,16.00,42.25
+Winthrop,18.56,53.25
+Molina,15.00,46.00
+Dorset,17.10,39.75
+McKay,20.25,20.00
+Amandola,15.15,32.56
